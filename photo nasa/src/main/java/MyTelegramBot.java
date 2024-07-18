@@ -10,7 +10,7 @@ import java.io.IOException;
 public class MyTelegramBot extends TelegramLongPollingBot {
     private static final String BOT_NAME = "NASA_photo_Of_The_Day_Bot";
     private static final String BOT_TOKEN = "6622612575:AAHZijEvxTdl8FfbQkgJCAfUvPeKZZPQiTc";
-    private static final String URL = "https://api.nasa.gov/planetary/apod?api_key=IHi02uPaLRV0cNWXFKe3Vbngkr1FFHziTSIUONTE";
+    private static final String URL = "https://api.nasa.gov/planetary/apod?api_key=*****";
 
 
     public MyTelegramBot() throws TelegramApiException {
